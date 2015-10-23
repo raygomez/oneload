@@ -1,0 +1,1 @@
+A simple library that downloads manga from onemanga.com
